@@ -3,6 +3,7 @@
 ## 1. Overview
 
 used to dispatch blog to every blog platform
+用于发布博客后，快速同步到其他平台，博客同步
 
 ## 2. Usage
 

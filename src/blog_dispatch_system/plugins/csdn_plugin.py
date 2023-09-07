@@ -3,7 +3,6 @@ import logging
 import os
 import time
 
-from blog_dispatch_system.exception.login_except import LoginFailedException
 from blog_dispatch_system.exception.page_update_except import PageUpdateExcept
 from blog_dispatch_system.exception.publish_except import PublishException
 from blog_dispatch_system.plugins import PlatformPlugin
